@@ -1,0 +1,36 @@
+# Виртуальное окружение
+venv
+env
+.venv
+
+# Системные файлы
+__pycache__
+*.pyc
+*.pyo
+
+# База данных (локальная)
+db.sqlite3
+*.sqlite3
+
+# Файлы IDE
+.idea
+.vscode
+*.swp
+*.swo
+
+# Переменные окружения (секреты)
+.env
+.env.local
+.env.*.local
+
+# Git
+.git
+.gitignore
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# Документация и мета-файлы
+README.md
+LICENSE
